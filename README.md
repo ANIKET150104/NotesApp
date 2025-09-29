@@ -29,5 +29,3 @@ The app allows you to:
 - *Runtime:* Terminal / Command Prompt  
 
 ---
-
-## 📂 Project Structure
